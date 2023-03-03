@@ -14,14 +14,14 @@
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css);
 
 /* All colors are in RGB format (red, green, blue) use: https://www.google.com/search?q=colorpicker	*/
 
 :root {
 	--accentcolor:			255,181,244;		/*	blurple		-	default:	88,101,242		*/
-	--accentcolor2:			252,199,231;	/*	boostpink	-	default:	255,115,250		*/
+	--accentcolor2:			252,199,231;		/*	boostpink	-	default:	255,115,250		*/
 	--linkcolor:			255,181,244;		/*	link		-	default:	0,176,244		*/
-	--mentioncolor: 		255,181,244;
+	--mentioncolor: 		255,181,244;		/*	Highlight Color	- 	default:	250,166,26		*/
 	
 }
